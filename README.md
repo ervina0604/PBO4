@@ -5,10 +5,10 @@
 ---
 
 ## 📑 Table of Contents
-- [📝 CRUD (Create, Read, Update, Delete)](#crud)
-- [❗ Exception Handling - *Try-Catch* dan *Throws*](#exception-handling)
-- [🚨 Custom Exception](#custom-exception)
-- [🔍 Kesimpulan](#kesimpulan)
+- [📝 CRUD (Create, Read, Update, Delete)](https://github.com/ervina0604/repo#crud)
+- [❗ Exception Handling - *Try-Catch* dan *Throws*](https://github.com/ervina0604/repo#exception-handling)
+- [🚨 Custom Exception](https://github.com/ervina0604/repo#custom-exception)
+- [🔍 Kesimpulan](https://github.com/ervina0604/repo#kesimpulan)
 
 ---
 
@@ -64,14 +64,11 @@ Pada program, `try-catch` digunakan untuk menangkap kesalahan yang mungkin terja
 ---
 
 ## 🚨 Custom Exception
-Custom Exception adalah pengecualian yang didefinisikan oleh pengguna sesuai dengan kebutuhan spesifik. Pada program, terdapat contoh *custom exception* bernama `VinaException`, yang melempar pesan kesalahan khusus.
+Custom Exception adalah pengecualian yang didefinisikan oleh pengguna sesuai dengan kebutuhan spesifik. Program ini mendemonstrasikan penggunaan custom exception bernama VinaException, yang digunakan untuk menangani kesalahan spesifik, yaitu pembagian dengan nol.
 
 ### Proses:
-- `VinaException` adalah subclass dari `Exception`, yang memungkinkan pembuatan pesan kesalahan yang disesuaikan.
-- Ketika kesalahan terjadi, `VinaException` bisa digunakan untuk melempar pesan khusus, seperti `"Terjadi kesalahan! Silakan periksa kembali"`.
-
-Contoh ini memperlihatkan cara membuat dan menggunakan exception kustom untuk penanganan kesalahan yang lebih jelas dan terarah.
-
+- VinaException: Merupakan subclass dari ArithmeticException, dirancang untuk melempar pesan kesalahan yang disesuaikan saat terjadi pembagian dengan nol.
+  
 ---
 
 ## 🔍 Kesimpulan
