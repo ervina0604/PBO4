@@ -5,10 +5,10 @@
 ---
 
 ## 📑 Table of Contents
-- [📝 CRUD (Create, Read, Update, Delete)](https://github.com/ervina0604/repo#crud)
-- [❗ Exception Handling - *Try-Catch* dan *Throws*](https://github.com/ervina0604/repo#exception-handling)
-- [🚨 Custom Exception](https://github.com/ervina0604/repo#custom-exception)
-- [🔍 Kesimpulan](https://github.com/ervina0604/repo#kesimpulan)
+- [📝 CRUD (Create, Read, Update, Delete)](https://github.com/ervina0604/PBO4#crud)
+- [❗ Exception Handling - *Try-Catch* dan *Throws*](https://github.com/ervina0604/PBO4#exception-handling)
+- [🚨 Custom Exception](https://github.com/ervina0604/PBO4#custom-exception)
+- [🔍 Kesimpulan](https://github.com/ervina0604/PBO4#kesimpulan)
 
 ---
 
